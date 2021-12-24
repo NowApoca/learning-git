@@ -1,5 +1,5 @@
 # learning-git
 
-un comando que subio manu
+## un comando que subio titon
 
 Just a repository with commands and tests of git
