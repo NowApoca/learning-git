@@ -11,8 +11,8 @@ function twoTimesNumber(n){
 }
 
 console.log("__________")
-console.log(sumarDosNumeros(7, 12))
+console.log(sumarDosNumeros(6, 12))
 console.log("__________")
-console.log(twoTimesNumber(5))
+console.log(twoTimesNumber(9))
 console.log("____________")
-console.log(restarDosNumeros(5, 3))
+console.log(restarDosNumeros(5, 4))
